@@ -1,4 +1,4 @@
-module yt-thumbnail
+module go-yt-zip-share
 
 go 1.19
 

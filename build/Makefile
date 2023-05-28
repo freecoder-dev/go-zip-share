@@ -3,7 +3,7 @@
 ## Project build configuration
 ##
 ##------------------------------
-APP_NAME = yt-thmubnail
+APP_NAME = yt-zip-share
 APP_BINARY = ../bin/${APP_NAME}
 MAIN_ENTRY = ../src/app
 
